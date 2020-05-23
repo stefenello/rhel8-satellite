@@ -1,0 +1,6 @@
+---
+
+- hosts: rhel_server
+  become: yes
+  gather_facts: no
+
